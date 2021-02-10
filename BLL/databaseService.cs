@@ -1,10 +1,8 @@
-﻿using MySql.Data.MySqlClient;
-using System;
+﻿using System;
 
 namespace BLL
 {
     public class databaseService
     {
-        
     }
 }
