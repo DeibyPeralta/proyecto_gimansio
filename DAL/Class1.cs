@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace DEL
+
+namespace DAL
 {
     public class Class1
     {
